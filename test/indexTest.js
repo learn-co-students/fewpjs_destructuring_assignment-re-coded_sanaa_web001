@@ -85,6 +85,7 @@ describe("index.js", () => {
     expect(k_job).to.exist
     expect(k_job).to.equal("Host of The Muppet Show")
     expect(k_partner).to.exist
+    
     expect(k_partner).to.equal("Miss Piggy")
   })
 })
